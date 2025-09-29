@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 💻 Full-stack developer | MERN stack | TypeScript & Next.js enthusiast
-- 🎯 Aspiring SDE & AI/ML Engineer
+- 🎯 Aspiring SDE & Full Stack developer
 - 📚 Learning System Design, DSA, NestJS, and AI/ML
 - 🌱 Currently building real-world projects and contributing to open source
 - 🏆 Open to collaborations and exciting challenges
