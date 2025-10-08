@@ -42,7 +42,7 @@
 
 ### 💡 Fun Fact
 - 🎮 I love coding challenges and building mini-projects
-- 🤔 Coffee fuels my debugging sessions ☕
+- 🤔 Chai fuels my debugging sessions ☕
 - 🌍 Lifelong learner and explorer
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VatsalMunipara&theme=radical)
